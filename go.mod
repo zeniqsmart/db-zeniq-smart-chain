@@ -14,7 +14,7 @@ require (
 	github.com/tinylib/msgp v1.1.6
 )
 
-require github.com/zeniqsmart/ads-zeniq-smart-chain v0.6.0
+require github.com/zeniqsmart/ads-zeniq-smart-chain v0.6.2
 
 require (
 	github.com/dterei/gotsc v0.0.0-20160722215413-e78f872945c6 // indirect
